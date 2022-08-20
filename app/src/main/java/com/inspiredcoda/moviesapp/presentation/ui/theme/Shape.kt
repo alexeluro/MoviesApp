@@ -1,4 +1,4 @@
-package com.inspiredcoda.moviesapp.ui.theme
+package com.inspiredcoda.moviesapp.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
